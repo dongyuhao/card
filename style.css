@@ -69,12 +69,13 @@ section{
     font-size: 1rem;
     text-align: center;
     margin-top: 1rem;
+    letter-spacing: 0.5em;
 }
 .content{
     font-size: 0.9rem;
     line-height: 2;
     margin: 0 auto;
-    width: calc(100% - 6rem);
+    margin-left: 6rem;
     margin-top: 3rem;
 }
 .content label{
