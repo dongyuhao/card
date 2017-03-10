@@ -59,12 +59,18 @@ section{
 }
 .person{
     text-align: center;
+    width: 5rem;
+    height: 5rem;
+    border-radius: 50%;
+    overflow: hidden;
+    margin: 0 auto;
     margin-top: 1rem;
+
 }
 .person img{
     width: 100%;
-    width: 5rem;
-    /* height: 10rem; */
+
+
 }
 .name{
     font-size: 1.2rem;
