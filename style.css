@@ -45,7 +45,7 @@ section{
 .top{
     background: url("./top2.png") top center no-repeat;
     color: #ffffff;
-    background-size: cover;
+    background-size: 100% 13rem;
     height: 13rem;
     overflow: hidden;
     border-bottom-left-radius: 10px;
